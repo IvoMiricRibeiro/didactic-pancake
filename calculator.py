@@ -2,7 +2,7 @@ import ADDIEREN
 import dividieren
 import subtrahieren
 
-print("Fuck you Miguel")
+print("***** ***  Ivo")
 
 a = float(input("Write your number here :) :"))
 b = float(input("Write your second number now :) : "))
