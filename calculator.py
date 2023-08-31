@@ -6,6 +6,7 @@ a = float(input("Write your number here :) :"))
 b = float(input("Write your second number now :) : "))
 c = str(input("Write the symbol of the desired operation :D : "))
 
+print("Your result is:")
 match c:
     case "+":
         print(ADDIEREN.addieren(a, b))
